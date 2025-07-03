@@ -24,3 +24,4 @@ The cohort will run for 10-12 weeks, structured as follows:
 - 10 weeks of structured learning covering core ML topics.
 - 2 weeks of project implementation and presentation.
 
+More details coming soon.
